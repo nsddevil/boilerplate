@@ -2,7 +2,7 @@
 
 # server
 
-Create an .env file in the server directory
+Create an .env file in the server directory  
 PORT  
 JWT_SECRET  
 RWT_SECRET  
